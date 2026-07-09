@@ -5,7 +5,7 @@ const PAPERS = [
   {
     id: 1,
     title: 'The relaxation complexity of the standard simplex is logarithmic',
-    authors: 'Simon Keil, Stefan Weltge',
+    authors: 'Gennadiy Averkov, Simon Keil, Stefan Weltge',
     year: 2026,
     tags: [],
     links: [
