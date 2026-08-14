@@ -16,6 +16,15 @@ const EVENTS = [
     year: 2026,
     links: [{ label: 'Website', href: 'https://odm.cs.tum.de/en/conferences/fridaynoon-2026' }],
   },
+  {
+    id: 3,
+    title: 'FRICO 2026 (29th Workshop on Future Research in Combinatorial Optimization)',
+    location: 'Berlin, Germany',
+    year: 2026,
+    contribution: { type: 'Talk', title: 'Minimal sizes of linear relaxations in integer programming' },
+    links: [{ label: 'Website', href: 'https://www3.math.tu-berlin.de/combi/frico26/' }],
+    abstract: 'A central theme in combinatorial optimization is to represent a set of feasible solutions as a set of integer points $X$ in an appropriate space and to optimize a linear function over them. To treat this problem algorithmically, a common approach is to devise a system of linear inequalities whose feasible integer points are precisely $X$. The smallest number of inequalities in such a system that does not use auxiliary variables is called the relaxation complexity $\mathrm{rc}(X)$. In this talk, we discuss the relaxation complexity of the arguably simplest full-dimensional set of integer points, the discrete standard simplex. Surprisingly, the number of inequalities needed in a relaxation depends strongly on the coefficients that are allowed: While it is known that a linear number of inequalities is needed when only using rational coefficients, we present an explicit and elementary construction showing that a logarithmic number of inequalities suffices when irrational coefficients are allowed.',
+  },
   // {
   //   id: 3,
   //   title: 'TITLE',
