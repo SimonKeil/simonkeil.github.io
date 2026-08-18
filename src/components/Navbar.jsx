@@ -3,10 +3,10 @@ import { Sun, Moon, Menu, X } from 'lucide-react'
 
 const NAV_ITEMS = [
   { label: 'Papers',                 id: 'papers'      },
-  { label: 'Theses',                 id: 'theses'      },
   { label: 'Workshops & Conferences', id: 'workshops'  },
   { label: 'Teaching',               id: 'teaching'    },
   { label: 'Service',                id: 'service'     },
+  { label: 'Theses',                 id: 'theses'      },
 ]
 
 export default function Navbar({ theme, toggleTheme }) {

@@ -32,10 +32,10 @@ export default function App() {
       <main>
         <Hero />
         <PapersSection />
-        <ThesesSection />
         <WorkshopsSection />
         <TeachingSection />
         <ServiceSection />
+        <ThesesSection />
       </main>
       <footer className="footer">
         <div className="container">
