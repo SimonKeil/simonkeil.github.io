@@ -17,7 +17,7 @@ const TEACHING = [
     role: 'Teaching Assistant',
     title: 'Discrete Optimization',
     institution: 'Technical University of Munich',
-    terms: 'Winter 2025/26',
+    terms: 'Winter 2025/26, 2026/27',
     description:
       'Organized and held weekly exercise sessions, designed and graded exam',
   },
